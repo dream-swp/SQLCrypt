@@ -1,0 +1,6 @@
+framework module SQLCrypt {
+  umbrella header "SQLCrypt.h"
+  export *
+
+  module * { export * }
+}
